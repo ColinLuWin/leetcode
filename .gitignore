@@ -1,0 +1,7 @@
+code/.vs/*
+code/packages/*
+code/TestResults/*
+code/LeetCode/bin/*
+code/LeetCode/obj/*
+code/LeetCode.Tests/bin/*
+code/LeetCode.Tests/obj/*
