@@ -45,6 +45,9 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Questions\PalindromeNumber.cs" />
+    <Compile Include="Questions\ReverseInteger.cs" />
+    <Compile Include="Questions\RomanToInteger.cs" />
     <Compile Include="Questions\TwoSum.cs" />
   </ItemGroup>
   <ItemGroup>
