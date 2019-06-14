@@ -54,6 +54,7 @@
     <Compile Include="TwoSumTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RomanToIntegerTest.cs" />
+    <Compile Include="LongestCommonPrefixTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
